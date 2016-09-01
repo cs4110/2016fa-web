@@ -3,7 +3,7 @@ var markdown    = require('metalsmith-markdown');
 var layouts     = require('metalsmith-layouts');
 
 Metalsmith(__dirname)
-  .source('.')
+  .source('./src')
   .destination('./build')
   .use(markdown())
   .use(layouts('handlebars'))
