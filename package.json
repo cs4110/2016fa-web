@@ -1,0 +1,17 @@
+{
+  "name": "cs4110-2016fa-web",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "metalsmith": "^2.2.0",
+    "metalsmith-layouts": "^1.6.5",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-metadata": "0.0.4"
+  },
+  "scripts": {
+    "build": "node index.js"
+  }
+}
