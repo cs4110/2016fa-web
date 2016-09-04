@@ -5,6 +5,7 @@ var sass        = require('metalsmith-sass');
 var metadata    = require('metalsmith-metadata');
 var relative    = require('metalsmith-relative');
 var collections = require('metalsmith-collections');
+var filepath    = require('metalsmith-filepath');
 
 Metalsmith(__dirname)
   .source('./src')
@@ -17,6 +18,9 @@ Metalsmith(__dirname)
   .use(relative())
   .use(markdown())
   .use(sass())
+  .use(filepath({
+    absolute: true
+  }))
   .use(metadata({
     course: 'course.yaml'
   }))

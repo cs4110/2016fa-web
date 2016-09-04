@@ -17,7 +17,7 @@
     </h1>
     <nav>
       {{#each pages}}
-      <p><a href="{{ relative '/' }}">{{ this.title }}</a></p>
+      <p><a href="{{ relative this.link }}">{{ this.title }}</a></p>
       {{/each}}
     </nav>
   </header>
