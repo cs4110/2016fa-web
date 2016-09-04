@@ -7,7 +7,7 @@ var relative    = require('metalsmith-relative');
 var collections = require('metalsmith-collections');
 var filepath    = require('metalsmith-filepath');
 
-Metalsmith(__dirname)
+var site = Metalsmith(__dirname)
   .source('./src')
   .destination('./build')
   .use(collections({
@@ -26,7 +26,18 @@ Metalsmith(__dirname)
   .use(metadata({
     course: 'course.yaml'
   }))
-  .use(layouts('handlebars'))
-  .build(function(err) {
-    if (err) throw err;
-  });
+  .use(layouts('handlebars'));
+
+if (process.argv.indexOf('--serve') != -1) {
+  var serve = require('metalsmith-serve');
+  var watch = require('metalsmith-watch');
+  site = site
+    .use(serve())
+    .use(watch({
+      livereload: true
+    }));
+}
+
+site.build(function(err) {
+  if (err) throw err;
+});

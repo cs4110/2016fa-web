@@ -1,7 +1,10 @@
-.PHONY: build clean view
+.PHONY: build clean view serve
 
 build: node_modules
 	npm run build
+
+serve: node_modules
+	npm run serve
 
 clean:
 	rm -rf build
