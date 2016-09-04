@@ -16,7 +16,9 @@ Metalsmith(__dirname)
     }
   }))
   .use(relative())
-  .use(markdown())
+  .use(markdown({
+    smartypants: true,
+  }))
   .use(sass())
   .use(filepath({
     absolute: true
