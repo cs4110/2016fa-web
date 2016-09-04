@@ -12,9 +12,14 @@
 </head>
 <body>
   <header>
-    <p>
-      <a href="/">{{ course.name }}</a>
-    </p>
+    <h1>
+      <a href="{{ relative '/' }}">{{ course.name }}</a>
+    </h1>
+    <nav>
+      {{#each page in pages}}
+      <p><a href="{{ relative '/' }}">{{ page.title }}</a></p>
+      {{/each}}
+    </nav>
   </header>
   <main>
     <h1>{{ title }}</h1>
