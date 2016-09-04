@@ -7,9 +7,14 @@ var relative    = require('metalsmith-relative');
 var collections = require('metalsmith-collections');
 var filepath    = require('metalsmith-filepath');
 
+var serveMode = process.argv.indexOf('--serve') != -1;
+
 var site = Metalsmith(__dirname)
   .source('./src')
   .destination('./build')
+  .metadata({
+    serve: serveMode,
+  })
   .use(collections({
     pages: {
       pattern: '*.md'
@@ -28,12 +33,16 @@ var site = Metalsmith(__dirname)
   }))
   .use(layouts('handlebars'));
 
-if (process.argv.indexOf('--serve') != -1) {
+if (serveMode) {
   var serve = require('metalsmith-serve');
   var watch = require('metalsmith-watch');
   site = site
     .use(serve())
     .use(watch({
+      paths: {
+        "${source}/**/*": true,
+        "layouts/**/*": "**/*.md",
+      },
       livereload: true
     }));
 }
