@@ -9,12 +9,14 @@ var collections = require('metalsmith-collections');
 Metalsmith(__dirname)
   .source('./src')
   .destination('./build')
+  .use(collections({
+    pages: {
+      pattern: '*.md'
+    }
+  }))
   .use(relative())
   .use(markdown())
   .use(sass())
-  .use(collections({
-    pages: '*.md'
-  }))
   .use(metadata({
     course: 'course.yaml'
   }))
