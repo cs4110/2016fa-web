@@ -15,12 +15,15 @@ header {
     font-size: inherit;
     font-weight: bold;
   }
-  h1, nav {
+  h1 {
     display: inline-block;
   }
-  nav a {
-    display: inline-block;
-    margin-left: 1rem;
+  nav {
+    display: inline;
+    p {
+      display: inline-block;
+      margin-left: 1rem;
+    }
   }
 }
 

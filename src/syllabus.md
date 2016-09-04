@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Syllabus
 layout: layout.html
 ---
 Test.
