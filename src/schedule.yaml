@@ -1,22 +1,33 @@
 -
     date: August 24
-    topic: yyy
-    slides: zzz.pdf
-    notes: lll.pdf
-    assignments: hhh
+    topic: Course Overview
+    slides: slides01.pdf
 -
     date: August 26
+    topic: Introduction to Semantics
+    slides: slides02.pdf
+    notes: lecture02.pdf
 -
     date: August 29
+    topic: Inductive Definitions and Proofs
+    slides: slides03.pdf
+    notes: lecture03.pdf
 -
     date: August 31
+    topic: Inductive Proof and Large-Step Semantics
+    slides: slides04.pdf
+    notes: lecture04.pdf
 -
     date: September 2
+    topic: The IMP Language
+    slides: slides05.pdf
+    notes: lecture05.pdf
 -
     date: September 5
     event: No class (Labor Day)
 -
     date: September 7
+    topic: IMP Properties
 -
     date: September 9
 -
