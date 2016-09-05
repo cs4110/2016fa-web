@@ -21,6 +21,7 @@
     "serve": "node index.js --serve"
   },
   "devDependencies": {
+    "metalsmith-in-place": "^1.4.4",
     "metalsmith-serve": "0.0.7",
     "metalsmith-watch": "^1.0.3"
   }

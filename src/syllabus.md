@@ -42,7 +42,7 @@ Final grades will be assigned with these proportions:
 
 Problem sets are due periodically at 11:59 PM. See the [course schedule][schedule]. You can work on problem sets with a partner; you'll turn in one completed assignment together.
 
-[schedule]: /schedule.html
+[schedule]: {{ relative "/schedule.html" }}
 
 ### Timeliness
 
@@ -54,7 +54,7 @@ Aside from that, late work will not be accepted and will count for zero points.
 
 ## Exams
 
-There will be a midterm exam and a final exam. See the [course schedule][schedule]. 
+There will be a midterm exam and a final exam. See the [course schedule][schedule].
 
 Makeup exams must be scheduled within the first three weeks of class. Check the schedule now to see if you have a conflict with another class and contact the instructor immediately to reschedule.
 

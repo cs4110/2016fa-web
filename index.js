@@ -6,6 +6,7 @@ var metadata    = require('metalsmith-metadata');
 var relative    = require('metalsmith-relative');
 var collections = require('metalsmith-collections');
 var filepath    = require('metalsmith-filepath');
+var inplace     = require('metalsmith-in-place');
 
 var serveMode = process.argv.indexOf('--serve') != -1;
 
@@ -21,6 +22,9 @@ var site = Metalsmith(__dirname)
     }
   }))
   .use(relative())
+  .use(inplace({
+    engine: "handlebars"
+  }))
   .use(markdown({
     smartypants: true,
   }))
