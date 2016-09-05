@@ -33,29 +33,40 @@
     assignments: A1 due; A2 out
 -
     date: September 9
+    topic: Denotational Semantics
 -
     date: September 12
+    topic: Denotational Semantics Examples
 -
     date: September 14
+    topic: Axiomatic Semantics
     assignments: A2 due; A3 out
 -
     date: September 16
+    topic: Hoare Logic
 -
     date: September 19
+    topic: Hoare Logic Examples
 -
     date: September 21
+    topic: Weakest Preconditions
     assignments: A3 due; A4 out
 -
     date: September 23
+    topic: Lambda Calculus
 -
     date: September 26
+    topic: More Lambda Calculus and Substitution
 -
     date: September 28
     assignments: A4 due
+    topic: Lambda Calculus Encodings
 -
     date: September 30
+    topic: Programming in the Lambda Calculus
 -
     date: October 3
+    topic: Definitional Translation and Continuations
 -
     date: October 5
     event: Preliminary Exam I
@@ -69,46 +80,63 @@
 -
     date: October 12
     assignments: A5 out
+    topic: Simple Types
 -
     date: October 14
+    topic: Proving Type Soundness
 -
     date: October 17
+    topic: Normalization
 -
     date: October 19
     assignments: A5 due; A6 out
+    topic: Advanced Types
 -
     date: October 21
+    topic: Polymorphism
 -
     date: October 24
+    event: "Guest lecture: Yaron Minsky, Jane Street"
 -
     date: October 26
     assignments: A6 due; A7 out
+    topic: Type Inference
 -
     date: October 28
+    topic: Compiling with Continuations
 -
     date: October 31
+    topic: Records and Subtyping
 -
     date: November 2
+    topic: Existential Types
     assignments: A7 due; A8 out
 -
     date: November 4
+    topic: Recursive Types
 -
     date: November 7
+    topic: Propositions as Types
 -
     date: November 9
+    topic: Featherweight Java
     assignments: A8 due
 -
     date: November 11
     event: Preliminary Exam II
 -
     date: November 14
+    topic: Typed Assembly Language I
 -
     date: November 16
+    topic: Typed Assembly Language II
     assignments: A9 out
 -
     date: November 18
+    topic: Typed Assembly Language III
 -
     date: November 21
+    topic: Concurrency 
 -
     date: November 23
     event: No class (Thanksgiving)
@@ -120,7 +148,14 @@
 -
     date: November 28
     assignments: A10 out
+    topic: CCS and CSP 
 -
     date: November 30
+    topic: Pi-Calculus
 -
     date: December 2
+    topic: Logic Programming 
+    topic: Datalog 
+    topic: Object-Oriented Programming
+    topic: Language Design Principles
+    topic: Victory Lap
