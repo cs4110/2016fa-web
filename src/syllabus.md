@@ -24,11 +24,9 @@ You will download homework assignments, upload solutions, and receive grades thr
 
 ## Feedback
 
-Is the course moving too quickly or too slowly? To help calibrate the pace and content, please fill out the [feedback form][TK] early and often.
+Is the course moving too quickly or too slowly? To help calibrate the pace and content, please fill out the [feedback form][fform] early and often.
 
-## Textbooks, or lack thereof
-
-There will be reading assigned, but there is no textbook.
+[fform]: https://sampsyo.wufoo.com/forms/4110-feedback/
 
 # Content
 
@@ -36,15 +34,13 @@ There will be reading assigned, but there is no textbook.
 
 Final grades will be assigned with these proportions:
 
-* Homework: 50%
+* Problem sets: 50%
 * Midterm exam: 20%
 * Final exam: 30%
 
 ## Problem Sets
 
-Problem sets are due once every two weeks, at 11:59 PM on TK
-
-TK
+Problem sets are due periodically at 11:59 PM.
 
 ### Timeliness
 
