@@ -21,6 +21,10 @@ var site = Metalsmith(__dirname)
       pattern: '*.{md,html}'
     }
   }))
+  .use(metadata({
+    course: 'course.yaml',
+    schedule: 'schedule.yaml'
+  }))
   .use(relative())
   .use(inplace({
     engine: "handlebars"
@@ -31,10 +35,6 @@ var site = Metalsmith(__dirname)
   .use(sass())
   .use(filepath({
     absolute: true
-  }))
-  .use(metadata({
-    course: 'course.yaml',
-    schedule: 'schedule.yaml'
   }))
   .use(layouts('handlebars'));
 
