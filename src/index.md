@@ -32,7 +32,7 @@ office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
   office hours: Wed 1--2pm, Gates G17
 - Michael Roberts  
   [mbr82@cornell.edu](mailto:mbr82@cornell.edu)  
-  office hours: Thu 3--4pm, Gates 407
+  office hours: Thu 2:45--3:45pm, Gates 407
 - Anna Yesypenko  
   [ay256@cornell.edu](mailto:ay256@cornell.edu)  
   office hours: Wed 7:30--8:30pm, Gates G11
