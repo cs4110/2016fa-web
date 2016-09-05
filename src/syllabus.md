@@ -40,11 +40,13 @@ Final grades will be assigned with these proportions:
 
 ## Problem Sets
 
-Problem sets are due periodically at 11:59 PM.
+Problem sets are due periodically at 11:59 PM. See the [course schedule][schedule].
+
+[schedule]: /schedule.html
 
 ### Timeliness
 
-You have **two slip days** that you can allocate to problem sets throughout the semester: turn in two assignments one days late, or one assignment two days late, with no penalty. The course staff will tell you when you have used a slip day.
+You have **three slip days** that you can allocate to problem sets throughout the semester. You can use at most **two slip days per assignment**. When you use a slip day, it lets you turn in the assignment 24 hours late without penalty.
 
 We will **drop one score** to calculate your final grade: that is, your lowest-scoring problem set won't count, even if that score is zero.
 
