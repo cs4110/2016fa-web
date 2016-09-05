@@ -1,0 +1,24 @@
+---
+title: Schedule
+layout: layout.html
+---
+<table>
+    <thead>
+        <tr>
+            <td>Date</td>
+            <td>Topic</td>
+            <td>Notes</td>
+            <td>Assignments</td>
+        </tr>
+    </thead>
+    <tbody>
+    {{#each schedule}}
+        <tr>
+            <td>{{this.date}}</td>
+            <td>{{this.topic}}</td>
+            <td>{{this.notes}}</td>
+            <td>{{this.assignments}}</td>
+        </tr>
+    {{/each}}
+    </tbody>
+</table>

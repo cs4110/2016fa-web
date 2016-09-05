@@ -18,7 +18,7 @@ var site = Metalsmith(__dirname)
   })
   .use(collections({
     pages: {
-      pattern: '*.md'
+      pattern: '*.{md,html}'
     }
   }))
   .use(relative())
@@ -33,7 +33,8 @@ var site = Metalsmith(__dirname)
     absolute: true
   }))
   .use(metadata({
-    course: 'course.yaml'
+    course: 'course.yaml',
+    schedule: 'schedule.yaml'
   }))
   .use(layouts('handlebars'));
 
