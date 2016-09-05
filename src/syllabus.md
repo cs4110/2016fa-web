@@ -34,9 +34,9 @@ Is the course moving too quickly or too slowly? To help calibrate the pace and c
 
 Final grades will be assigned with these proportions:
 
-* Problem sets: 50%
-* Midterm exam: 20%
-* Final exam: 30%
+* Problem sets: 45%
+* Preliminary exams: 30%
+* Final exam: 25%
 
 ## Problem Sets
 
@@ -54,7 +54,7 @@ Aside from that, late work will not be accepted and will count for zero points.
 
 ## Exams
 
-There will be a midterm exam and a final exam. See the [course schedule][schedule].
+There will be two preliminary exams and a final exam. See the [course schedule][schedule].
 
 Makeup exams must be scheduled within the first three weeks of class. Check the schedule now to see if you have a conflict with another class and contact the instructor immediately to reschedule.
 
