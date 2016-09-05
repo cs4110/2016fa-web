@@ -1,4 +1,4 @@
-.PHONY: build clean view serve
+.PHONY: build clean view serve deploy
 
 build: node_modules
 	npm run build
@@ -14,3 +14,13 @@ view:
 
 node_modules: package.json
 	npm install
+
+
+# Deployment.
+
+RSYNCARGS := --compress --recursive --checksum --itemize-changes \
+	--delete -e ssh
+DEST := lion:/cucs/web/cs/Courses/cs4110/2016fa
+
+deploy: clean build
+	rsync $(RSYNCARGS) build/ $(DEST)
