@@ -18,7 +18,7 @@ var site = Metalsmith(__dirname)
   })
   .use(collections({
     pages: {
-      pattern: '*.{md,html}'
+      pattern: '*.{md,html,pug}'
     }
   }))
   .use(metadata({
@@ -27,7 +27,9 @@ var site = Metalsmith(__dirname)
   }))
   .use(relative())
   .use(inplace({
-    engine: "handlebars"
+    engine: "pug",
+    pattern: "*.pug",
+    rename: true,
   }))
   .use(markdown({
     smartypants: true,
