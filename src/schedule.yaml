@@ -17,6 +17,7 @@
     topic: Inductive Proof and Large-Step Semantics
     slides: slides04.pdf
     notes: lecture04.pdf
+    assignments: A1 out
 -
     date: September 2
     topic: The IMP Language
@@ -29,68 +30,81 @@
 -
     date: September 7
     topic: IMP Properties
+    assignments: A1 due; A2 out
 -
     date: September 9
 -
     date: September 12
 -
     date: September 14
+    assignments: A2 due; A3 out
 -
     date: September 16
 -
     date: September 19
 -
     date: September 21
+    assignments: A3 due; A4 out
 -
     date: September 23
 -
     date: September 26
 -
     date: September 28
+    assignments: A4 due
 -
     date: September 30
 -
     date: October 3
 -
     date: October 5
+    event: Preliminary Exam I
 -
     date: October 7
+    topic: Exam Debrief
 -
     date: October 10
     event: No class (Fall Break)
     canceled: true
 -
     date: October 12
+    assignments: A5 out
 -
     date: October 14
 -
     date: October 17
 -
     date: October 19
+    assignments: A5 due; A6 out
 -
     date: October 21
 -
     date: October 24
 -
     date: October 26
+    assignments: A6 due; A7 out
 -
     date: October 28
 -
     date: October 31
 -
     date: November 2
+    assignments: A7 due; A8 out
 -
     date: November 4
 -
     date: November 7
 -
     date: November 9
+    assignments: A8 due
 -
     date: November 11
+    event: Preliminary Exam II
 -
     date: November 14
 -
     date: November 16
+    assignments: A9 out
 -
     date: November 18
 -
@@ -105,6 +119,7 @@
     canceled: true
 -
     date: November 28
+    assignments: A10 out
 -
     date: November 30
 -
