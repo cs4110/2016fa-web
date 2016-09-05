@@ -126,17 +126,17 @@
     event: Preliminary Exam II
 -
     date: November 14
-    topic: Concurrency
+    topic: Featherweight Java Properties
 -
     date: November 16
     assignments: A9 out
-    topic: CCS and CSP
+    topic: Exam Debrief
 -
     date: November 18
-    topic: Pi-Calculus
+    topic: Concurrency and Parallelism
 -
     date: November 21
-    topic: Logic Programming
+    topic: More Concurrency and Pi Calculus
 -
     date: November 23
     event: No class (Thanksgiving)
@@ -147,12 +147,11 @@
     canceled: true
 -
     date: November 28
-    topic: Datalog
     assignments: A10 out
+    topic: Message Passing and Concurrent ML
 -
     date: November 30
-    topic: Object-Oriented Programming
+    topic: Shared-Memory Parallelism
 -
     date: December 2
-    topic: Language Design Principles
-    topicx: Victory Lap
+    topic: Victory Lap
