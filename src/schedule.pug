@@ -15,7 +15,9 @@ table
         td #{day.date}
         td #{day.topic}
         td
+          if day.slides
+            a(href=relative("/lectures/" + day.slides)) slides
+          | #{" "}
           if day.notes
-              a(href=relative("/lectures/" + day.notes))
-                | notes
+            a(href=relative("/lectures/" + day.notes)) notes
         td #{day.assignments}
