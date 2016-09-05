@@ -1,6 +1,7 @@
 ---
 title: Syllabus
 layout: layout.html
+order: 2
 ---
 CS 4110, "Programming Languages and Logics," is a thrilling amusement-park ride through the beauty and glory of programming languages, the theory behind them, and their implementation. It will not be easy, but you will achieve a clear and rigorous understanding of computing: a rare enlightenment that will give you great power.
 

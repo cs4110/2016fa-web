@@ -2,6 +2,7 @@
 title: Home
 longtitle: "CS 4110: Programming Languages and Logics, Fall 2016"
 layout: layout.html
+order: 0
 ---
 Monday, Wednesday, and Friday  
 at 9:05--9:55am  

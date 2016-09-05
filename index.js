@@ -18,7 +18,8 @@ var site = Metalsmith(__dirname)
   })
   .use(collections({
     pages: {
-      pattern: '*.{md,html,pug}'
+      pattern: '*.{md,html,pug}',
+      sort: 'order',
     }
   }))
   .use(metadata({
