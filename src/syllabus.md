@@ -40,7 +40,7 @@ Final grades will be assigned with these proportions:
 
 ## Problem Sets
 
-Problem sets are due periodically at 11:59 PM. See the [course schedule][schedule].
+Problem sets are due periodically at 11:59 PM. See the [course schedule][schedule]. You can work on problem sets with a partner; you'll turn in one completed assignment together.
 
 [schedule]: /schedule.html
 
@@ -75,7 +75,7 @@ You can also read about the [protocol for prosecution of violations][aiproceedin
 
 [aiproceedings]: http://www.theuniversityfaculty.cornell.edu/AcadInteg/index.html
 
-On **problem sets**, everything you turn in must be 100% completely your own work. You may discuss with other students about requirements for the assignment, general techniques that will be useful, programming in OCaml, etc. But when it comes to developing specific answers or coding, you may not talk to other students or anyone else. Specifically:
+On **problem sets**, everything you turn in must be 100% completely your own work (with your partner, if you have one). You may discuss with other students about requirements for the assignment, programming in OCaml, etc. But when it comes to developing specific answers or coding, you may not talk to other students except for your partner or anyone else. Specifically:
 
 * Do not show any partial solution to another student or give any hints.
 * Never share code. (Shared code is surprisingly easy to detect.)
@@ -100,8 +100,7 @@ If any of the communication in this class doesn't meet these standards, please d
 ## Special Needs and Wellness
 
 It is university policy to provide reasonable accommodations to students who have a documented disability (e.g., physical, learning, psychiatric, vision, hearing, or systemic) that may affect their
-ability to participate in course activities or to meet course requirements. Students with disabilities are encouraged to contact <a
-href="http://sds.cornell.edu">Student Disability Services</a> at
+ability to participate in course activities or to meet course requirements. Students with disabilities are encouraged to contact <a href="http://sds.cornell.edu">Student Disability Services</a> at
 607-254-4545, or the instructor for a confidential discussion of their
 individual needs.
 
