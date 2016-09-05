@@ -3,25 +3,37 @@ title: Home
 longtitle: "CS 4110: Programming Languages and Logics, Fall 2016"
 layout: layout.html
 ---
-**Monday, Wednesday, and Friday**
-at **9:05--9:55am**
-in **Gates G01**.
+Monday, Wednesday, and Friday  
+at 9:05--9:55am  
+in Gates G01
 
 ## Staff
 
-Instructor: [Adrian Sampson][adrian]
+### Instructor
 
-TAs:
+[Adrian Sampson][adrian]  
+[asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)  
+office hours: Monday 10--11am and Friday 2--3pm
 
-- [Seung Hee Han](mailto:sh969@cornell.edu)
-- [Andrew Hirsch](mailto:akhirsch@cs.cornell.edu)
-- [Eric Perdew](mailto:ecp84@cornell.edu)
-- [Sujit Rao](mailto:sr869@cornell.edu)
-- [Michael Roberts](mailto:mbr82@cornell.edu)
-- [Anna Yesypenko](mailto:ay256@cornell.edu)
+### Teaching Assistants
 
-### Office Hours
-
-TK
+- Seung Hee Han  
+  [sh969@cornell.edu](mailto:sh969@cornell.edu)  
+  office hours: Tue 7--8pm, Gates G13
+- Andrew Hirsch  
+  [akhirsch@cs.cornell.edu](mailto:akhirsch@cs.cornell.edu)  
+  office hours TBD after September 20
+- Eric Perdew  
+  [ecp84@cornell.edu](mailto:ecp84@cornell.edu)  
+  office hours: Tue 10:10--11:10am, Gates G17
+- Sujit Rao  
+  [sr869@cornell.edu](mailto:sr869@cornell.edu)  
+  office hours: Wed 1--2pm, Gates G17
+- Michael Roberts  
+  [mbr82@cornell.edu](mailto:mbr82@cornell.edu)  
+  office hours: Thu 3--4pm, Gates 407
+- Anna Yesypenko  
+  [ay256@cornell.edu](mailto:ay256@cornell.edu)  
+  office hours: Wed 7:30--8:30pm, Gates G11
 
 [adrian]: http://adriansampson.net
