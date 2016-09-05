@@ -54,11 +54,9 @@ Aside from that, late work will not be accepted and will count for zero points.
 
 ## Exams
 
-There will be a midterm exam and a final exam.
+There will be a midterm exam and a final exam. See the [course schedule][schedule]. 
 
-TK
-
-Makeup exams must be scheduled within the first two weeks of class. Check the schedule now to see if you have a conflict with another class and contact the instructor immediately to reschedule.
+Makeup exams must be scheduled within the first three weeks of class. Check the schedule now to see if you have a conflict with another class and contact the instructor immediately to reschedule.
 
 # Policies
 
