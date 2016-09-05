@@ -47,6 +47,7 @@ if (serveMode) {
       paths: {
         "${source}/**/*": true,
         "layouts/**/*": "**/*.md",
+        "${source}/**/*.yaml": "**/*",
       },
       livereload: true
     }));
