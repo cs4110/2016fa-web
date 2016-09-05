@@ -44,17 +44,20 @@ Problem sets are due periodically at 11:59 PM. See the [course schedule][schedul
 
 [schedule]: {{ relative "/schedule.html" }}
 
+We will **drop one score** to calculate your final grade: that is, your lowest-scoring problem set won't count, even if that score is zero.
+
+You'll turn in assignments via [CMS][].
+We strongly encourage you to use TeX, but you can also write up answers by hand. If you do, scan your work and upload it as a PDF. It's your responsibility to make sure scans are 100% legible---we won't regrade work that was too hard to read.
+
 ### Timeliness
 
 You have **three slip days** that you can allocate to problem sets throughout the semester. You can use at most **two slip days per assignment**. When you use a slip day, it lets you turn in the assignment 24 hours late without penalty.
-
-We will **drop one score** to calculate your final grade: that is, your lowest-scoring problem set won't count, even if that score is zero.
 
 Aside from that, late work will not be accepted and will count for zero points.
 
 ## Exams
 
-There will be two preliminary exams and a final exam. See the [course schedule][schedule].
+There will be two in-class preliminary exams and a final exam. See the [course schedule][schedule].
 
 Makeup exams must be scheduled within the first three weeks of class. Check the schedule now to see if you have a conflict with another class and contact the instructor immediately to reschedule.
 
