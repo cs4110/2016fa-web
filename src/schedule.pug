@@ -19,9 +19,8 @@ table.schedule
         else
           td #{day.topic}
           td
-            if day.slides
-              a(href=relative("/lectures/" + day.slides)) slides
-            | #{" "}
-            if day.notes
-              a(href=relative("/lectures/" + day.notes)) notes
+            if day.links
+              each file, name in day.links
+                a(href=relative("/lectures/" + file)) #{name}
+                | #{" "}
           td #{day.assignments}
