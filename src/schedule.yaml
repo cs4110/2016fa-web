@@ -43,6 +43,9 @@
 -
     date: September 9
     topic: Denotational Semantics
+    links:
+        slides: slides07.pdf
+        notes: lecture07.pdf
 -
     date: September 12
     topic: Denotational Semantics Examples
