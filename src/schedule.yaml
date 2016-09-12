@@ -52,6 +52,8 @@
     links:
         slides: slides08.pdf
         notes: lecture08.pdf
+        slides+: scribbleslides08.pdf
+        scribbles: scribbles08.pdf
 -
     date: September 14
     topic: Axiomatic Semantics
