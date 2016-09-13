@@ -15,7 +15,7 @@ in Gates G01
 [Adrian Sampson][adrian]  
 [asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)  
 office hours: Monday 10--11am and Friday 2--3pm, Gates 411A  
-**this week: Thursday 9/8 1--2pm instead of Friday 9/9**
+**this week: Thursday 9/15 1--2pm instead of Friday 9/16**
 
 ### Teaching Assistants
 
