@@ -58,6 +58,9 @@
     date: September 14
     topic: Axiomatic Semantics
     assignments: A2 due; A3 out
+    links:
+        slides: slides09.pdf
+        notes: lecture09.pdf
 -
     date: September 16
     topic: Hoare Logic
