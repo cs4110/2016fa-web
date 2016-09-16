@@ -64,6 +64,9 @@
 -
     date: September 16
     topic: Hoare Logic
+    links:
+        slides: slides10.pdf
+        notes: lecture10.pdf
 -
     date: September 19
     topic: Hoare Logic Examples
