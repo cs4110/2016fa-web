@@ -36,6 +36,6 @@ office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
   office hours: Thu 2:45--3:45pm, Gates 407
 - Anna Yesypenko  
   [ay256@cornell.edu](mailto:ay256@cornell.edu)  
-  office hours: Wed 7:30--8:30pm, Gates G11
+  office hours: Mon 6:00--7:00pm, Gates G15
 
 [adrian]: http://adriansampson.net
