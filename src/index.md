@@ -24,8 +24,8 @@ office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
   office hours: Tue 7--8pm, Gates G13
 - Andrew Hirsch  
   [akhirsch@cs.cornell.edu](mailto:akhirsch@cs.cornell.edu)  
-  office hours: Mon 2--3pm, Gates G13
-  special office hours: Fri, Sept 23 2--3pm Gates G13
+  office hours: Mon 2--3pm, Gates G13  
+  **this week: Fri, Sept 23 2--3pm Gates G13 instead of Monday 9/19**
 - Eric Perdew  
   [ecp84@cornell.edu](mailto:ecp84@cornell.edu)  
   office hours: Tue 10:10--11:10am, Gates G17
