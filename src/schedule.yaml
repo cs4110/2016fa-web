@@ -71,6 +71,9 @@
 -
     date: September 19
     topic: Hoare Logic Examples
+    links:
+        slides: slides11.pdf
+        notes: lecture11.pdf
 -
     date: September 21
     topic: Weakest Preconditions
