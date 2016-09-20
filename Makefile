@@ -20,7 +20,7 @@ node_modules: package.json
 
 RSYNCARGS := --compress --recursive --checksum --itemize-changes \
 	--delete -e ssh
-DEST := lion:/cucs/web/cs/Courses/cs4110/2016fa
+DEST := fox:/cucs/web/cs/Courses/cs4110/2016fa
 
 deploy: clean build
 	rsync $(RSYNCARGS) build/ $(DEST)
