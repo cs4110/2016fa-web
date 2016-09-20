@@ -7,6 +7,7 @@ var relative    = require('metalsmith-relative');
 var collections = require('metalsmith-collections');
 var filepath    = require('metalsmith-filepath');
 var inplace     = require('metalsmith-in-place');
+var ignore      = require('metalsmith-ignore');
 
 var serveMode = process.argv.indexOf('--serve') != -1;
 
@@ -16,6 +17,7 @@ var site = Metalsmith(__dirname)
   .metadata({
     serve: serveMode,
   })
+  .use(ignore(['.DS_Store']))
   .use(collections({
     pages: {
       pattern: '*.{md,html,pug}',
