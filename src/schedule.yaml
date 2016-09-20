@@ -78,6 +78,9 @@
     date: September 21
     topic: Weakest Preconditions
     assignments: A3 due; A4 out
+    links:
+        slides: slides12.pdf
+        notes: lecture12.pdf
 -
     date: September 23
     topic: Lambda Calculus
