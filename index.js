@@ -17,7 +17,7 @@ var site = Metalsmith(__dirname)
   .metadata({
     serve: serveMode,
   })
-  .use(ignore(['.DS_Store']))
+  .use(ignore(['**/.DS_Store']))
   .use(collections({
     pages: {
       pattern: '*.{md,html,pug}',
