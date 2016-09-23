@@ -85,6 +85,8 @@
 -
     date: September 23
     topic: Lambda Calculus
+    links:
+        notes: lecture13.pdf
 -
     date: September 26
     topic: More Lambda Calculus and Substitution
