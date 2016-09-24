@@ -14,8 +14,7 @@ in Gates G01
 
 [Adrian Sampson][adrian]  
 [asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)  
-office hours: Monday 10--11am and Friday 2--3pm, Gates 411A  
-**this week: Friday, 9/23 3--4pm instead of 2--3pm**
+office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
 
 ### Teaching Assistants
 
@@ -39,4 +38,9 @@ office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
   [ay256@cornell.edu](mailto:ay256@cornell.edu)  
   office hours: Mon 6:00--7:00pm, Gates G15
 
+## Office Hours by Appointment
+
+Can't make the normal office hours? Post a private message to [Piazza][] to request a special appointment. We'll do our best to meet with you if we have enough notice.
+
+[piazza]: http://piazza.com/cornell/fall2016/cs4110
 [adrian]: http://adriansampson.net
