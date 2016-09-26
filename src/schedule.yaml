@@ -91,6 +91,9 @@
 -
     date: September 26
     topic: More Lambda Calculus and Substitution
+    links:
+        slides: slides14.pdf
+        notes: lecture14.pdf
 -
     date: September 28
     assignments: A4 due
