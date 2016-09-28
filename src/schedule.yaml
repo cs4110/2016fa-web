@@ -98,6 +98,9 @@
     date: September 28
     assignments: A4 due
     topic: Lambda Calculus Encodings
+    links:
+        slides: slides15.pdf
+        notes: lecture15.pdf
 -
     date: September 30
     topic: Programming in the Lambda Calculus
