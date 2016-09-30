@@ -105,6 +105,9 @@
 -
     date: September 30
     topic: Programming in the Lambda Calculus
+    links:
+        slides: slides16.pdf
+        notes: lecture16.pdf
 -
     date: October 3
     topic: Definitional Translation and Continuations
