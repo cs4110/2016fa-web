@@ -14,8 +14,7 @@ in Gates G01
 
 [Adrian Sampson][adrian]  
 [asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)  
-office hours: Monday 10--11am and Friday 2--3pm, Gates 411A  
-**this week: Monday 10/3, 1--2pm instead of 10--11am**
+office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
 
 ### Teaching Assistants
 
@@ -34,9 +33,6 @@ office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
 - Michael Roberts  
   [mbr82@cornell.edu](mailto:mbr82@cornell.edu)  
   office hours: Thu 2:45--3:45pm, Gates 407
-- Anna Yesypenko  
-  [ay256@cornell.edu](mailto:ay256@cornell.edu)  
-  office hours: Mon 6:00--7:00pm, Gates G15
 
 ## Office Hours by Appointment
 
