@@ -130,6 +130,7 @@
     topic: Simple Types
     links:
         notes: lecture18.pdf
+        scribbles: scribbles18.pdf
 -
     date: October 14
     topic: Proving Type Soundness
