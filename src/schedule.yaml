@@ -134,6 +134,9 @@
 -
     date: October 14
     topic: Proving Type Soundness
+    links:
+        slides: slides19.pdf
+        notes: lecture19.pdf
 -
     date: October 17
     topic: Normalization
