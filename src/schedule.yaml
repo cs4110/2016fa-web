@@ -144,6 +144,8 @@
     links:
         slides: slides20.pdf
         notes: lecture20.pdf
+        slides+: scribbleslides20.pdf
+        scribbles: scribbles20.pdf
 -
     date: October 19
     assignments: A5 due; A6 out
