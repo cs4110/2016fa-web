@@ -150,6 +150,9 @@
     date: October 19
     assignments: A5 due; A6 out
     topic: Advanced Types
+    links:
+        slides: slides21.pdf
+        notes: lecture21.pdf
 -
     date: October 21
     topic: Polymorphism
