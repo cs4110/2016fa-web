@@ -156,6 +156,9 @@
 -
     date: October 21
     topic: Polymorphism
+    links:
+        slides: slides22.pdf
+        notes: lecture22.pdf
 -
     date: October 24
     event: 'Guest lecture: Yaron Minsky, Jane Street. "GADTs for Speed Demons"'
