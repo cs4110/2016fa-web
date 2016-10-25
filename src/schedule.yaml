@@ -166,6 +166,9 @@
     date: October 26
     assignments: A6 due; A7 out
     topic: Type Inference
+    links:
+        slides: slides23.pdf
+        notes: lecture23.pdf
 -
     date: October 28
     topic: Compiling with Continuations
