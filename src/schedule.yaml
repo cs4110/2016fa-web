@@ -169,6 +169,7 @@
     links:
         slides: slides23.pdf
         notes: lecture23.pdf
+        slides+: scribbleslides23.pdf
 -
     date: October 28
     topic: Compiling with Continuations
