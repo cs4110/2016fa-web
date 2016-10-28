@@ -172,6 +172,9 @@
 -
     date: October 28
     topic: Compiling with Continuations
+    links:
+        slides: slides24.pdf
+        notes: lecture24.pdf
 -
     date: October 31
     topic: Records and Subtyping
