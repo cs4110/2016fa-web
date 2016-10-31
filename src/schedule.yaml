@@ -195,17 +195,16 @@
     assignments: A8 due
 -
     date: November 11
-    event: Preliminary Exam II
--
-    date: November 14
     topic: Featherweight Java Properties
 -
+    date: November 14
+    topic: Concurrency and Parallelism
+-
     date: November 16
-    assignments: A9 out
-    topic: Exam Debrief
+    event: Preliminary Exam II
 -
     date: November 18
-    topic: Concurrency and Parallelism
+    topic: Exam Debrief
 -
     date: November 21
     topic: More Concurrency and Pi Calculus
@@ -219,7 +218,7 @@
     canceled: true
 -
     date: November 28
-    assignments: A10 out
+    assignments: A9 out
     topic: Message Passing and Concurrent ML
 -
     date: November 30
@@ -227,3 +226,4 @@
 -
     date: December 2
     topic: Victory Lap
+    assignments: A9 due
