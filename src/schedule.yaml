@@ -179,6 +179,9 @@
 -
     date: October 31
     topic: Records and Subtyping
+    links:
+        slides: slides25.pdf
+        notes: lecture25.pdf
 -
     date: November 2
     topic: Existential Types
