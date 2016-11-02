@@ -188,6 +188,9 @@
     date: November 2
     topic: Existential Types
     assignments: A7 due; A8 out
+    links:
+        slides: slides26.pdf
+        notes: lecture26.pdf
 -
     date: November 4
     topic: Recursive Types
