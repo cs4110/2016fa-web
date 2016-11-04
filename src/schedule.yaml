@@ -194,6 +194,9 @@
 -
     date: November 4
     topic: Recursive Types
+    links:
+        slides: slides27.pdf
+        notes: lecture27.pdf
 -
     date: November 7
     topic: Propositions as Types
