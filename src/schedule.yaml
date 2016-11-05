@@ -200,6 +200,9 @@
 -
     date: November 7
     topic: Propositions as Types
+    links:
+        slides: slides28.pdf
+        notes: lecture28.pdf
 -
     date: November 9
     topic: Featherweight Java
