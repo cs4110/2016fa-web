@@ -207,6 +207,9 @@
     date: November 9
     topic: Featherweight Java
     assignments: A8 due
+    links:
+        slides: slides29.pdf
+        notes: lecture29.pdf
 -
     date: November 11
     topic: Featherweight Java Properties
