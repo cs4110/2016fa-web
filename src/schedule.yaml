@@ -223,6 +223,7 @@
     date: November 14
     topic: Concurrency and Parallelism
     links:
+        slides: slides31.pdf
         code: code31
 -
     date: November 16
