@@ -210,12 +210,15 @@
     links:
         slides: slides29.pdf
         notes: lecture29.pdf
+        slides+: scribbleslides29.pdf
 -
     date: November 11
     topic: Featherweight Java Properties
     links:
         slides: slides30.pdf
         notes: lecture30.pdf
+        slides+: scribbleslides30.pdf
+        scribbles: scribbles30.pdf
 -
     date: November 14
     topic: Concurrency and Parallelism
