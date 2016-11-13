@@ -222,6 +222,8 @@
 -
     date: November 14
     topic: Concurrency and Parallelism
+    links:
+        code: code31
 -
     date: November 16
     event: Preliminary Exam II
