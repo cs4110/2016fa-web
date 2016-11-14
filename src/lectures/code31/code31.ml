@@ -1,5 +1,5 @@
 (* Cornell CS 4110: Lecture 31
- * (Based on Dan Grossman's Graduate Programming Languages; Lecture 21 *)
+ * Based on Dan Grossman's Graduate Programming Languages; Lecture 21 *)
 
 open Thread
 open Event (* for CML *)
@@ -39,19 +39,24 @@ let get (inCh,outCh) f =
 let put (inCh,outCh) f =
   sendNow inCh (Put f); recvNow outCh
 
+let acct = mkAcct ()
+let _ = put acct 50.0
+let amt = get acct 8.0
+let _ = print_string ((string_of_float amt) ^ "\n")
+
 let squares = new_channel()
 let rec loop i =
   sendNow squares (i*i);
   loop (i+1)
 let _ = create loop 1
 
+let pr i = print_string ((string_of_int i) ^ "\n")
+
 let next_square () = recvNow squares
 
 let one  = next_square()
 let four = next_square()
 let nine = next_square()
-
-let pr i = print_string ((string_of_int i) ^ "\n")
 
 let _ = pr one; pr four; pr nine
 
