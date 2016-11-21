@@ -234,6 +234,9 @@
 -
     date: November 21
     topic: Shared-Memory Parallelism
+    links:
+        slides: slides32.pdf
+        code: code32/scviol.c
 -
     date: November 23
     event: No class (Thanksgiving)
