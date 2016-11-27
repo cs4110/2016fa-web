@@ -249,6 +249,9 @@
     date: November 28
     assignments: A9 out
     topic: Probabilistic Programming
+    links:
+        slides: slides33.pdf
+        notes: lecture33.html
 -
     date: November 30
     topic: Approximate Computing
