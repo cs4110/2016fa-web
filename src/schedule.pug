@@ -21,6 +21,6 @@ table.schedule
           td
             if day.links
               each file, name in day.links
-                a(href=relative("/lectures/" + file)) #{name}
+                a(href=relative(resolve("/lectures/", file))) #{name}
                 | #{" "}
           td #{day.assignments}
