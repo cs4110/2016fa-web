@@ -252,6 +252,7 @@
     links:
         slides: slides33.pdf
         notes: lecture33.html
+        code: https://github.com/sampsyo/ppl-intro/tree/master/code
 -
     date: November 30
     topic: Approximate Computing
