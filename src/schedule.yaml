@@ -256,6 +256,9 @@
 -
     date: November 30
     topic: Approximate Computing
+    links:
+        slides: slides34.pdf
+        paper: http://www.cs.cornell.edu/~asampson/media/papers/enerj-pldi2011.pdf
 -
     date: December 2
     topic: Victory Lap
