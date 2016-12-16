@@ -13,30 +13,20 @@ in Gates G01
 ### Instructor
 
 [Adrian Sampson][adrian]  
-[asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)  
-office hours: Monday 10--11am and Friday 2--3pm, Gates 411A
+[asampson@cs.cornell.edu](mailto:asampson@cs.cornell.edu)
 
 ### Teaching Assistants
 
 - Seung Hee Han  
-  [sh969@cornell.edu](mailto:sh969@cornell.edu)  
-  office hours: Tue 7--8pm, Gates G13
+  [sh969@cornell.edu](mailto:sh969@cornell.edu)
 - Andrew Hirsch  
-  [akhirsch@cs.cornell.edu](mailto:akhirsch@cs.cornell.edu)  
-  office hours: Mon 2--3pm, Gates G13
+  [akhirsch@cs.cornell.edu](mailto:akhirsch@cs.cornell.edu)
 - Eric Perdew  
-  [ecp84@cornell.edu](mailto:ecp84@cornell.edu)  
-  office hours: Tue 10:10--11:10am, Gates G17
+  [ecp84@cornell.edu](mailto:ecp84@cornell.edu)
 - Sujit Rao  
-  [sr869@cornell.edu](mailto:sr869@cornell.edu)  
-  office hours: Wed 1--2pm, Gates G17
+  [sr869@cornell.edu](mailto:sr869@cornell.edu)
 - Michael Roberts  
-  [mbr82@cornell.edu](mailto:mbr82@cornell.edu)  
-  office hours: Thu 2:45--3:45pm, Gates 407
-
-## Office Hours by Appointment
-
-Can't make the normal office hours? Post a private message to [Piazza][] to request a special appointment. We'll do our best to meet with you if we have enough notice.
+  [mbr82@cornell.edu](mailto:mbr82@cornell.edu)
 
 [piazza]: http://piazza.com/cornell/fall2016/cs4110
 [adrian]: http://adriansampson.net
