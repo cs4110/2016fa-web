@@ -251,7 +251,7 @@
     topic: Probabilistic Programming
     links:
         slides: slides33.pdf
-        notes: lecture33.html
+        notes: http://adriansampson.net/doc/ppl.html
         code: https://github.com/sampsyo/ppl-intro/tree/master/code
 -
     date: November 30
